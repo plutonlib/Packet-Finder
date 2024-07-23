@@ -1,0 +1,5 @@
+https://jsonplaceholder.typicode.com/
+https://www.example.com/
+https://angular.dev/
+https://tailwindcss.com/
+https://wordpress.org/
