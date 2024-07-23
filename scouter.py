@@ -68,7 +68,7 @@ def search_patterns(url, content, headers):
     return None, None
 
 if __name__ == '__main__':
-    print("Packer-Finder'a hoş geldiniz")
+    print("Scouter'a hoş geldiniz")
     print("Lütfen giriş türünü seçin:")
     print("1. Dosya")
     print("2. URL listesi")
