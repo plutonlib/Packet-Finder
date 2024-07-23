@@ -1,11 +1,11 @@
 
-# Packer-Finder
+# Scouter
 
 [English](#English) | [Türkçe](#Türkçe)
 
 ## English
 
-Packer-Finder is a Python program that detects frontend bundling technologies used in specified URLs. This program searches for predefined bundling features in the given URLs and saves the found URLs to a specified file.
+Scouter is a Python program that detects frontend bundling technologies used in specified URLs. This program searches for predefined bundling features in the given URLs and saves the found URLs to a specified file.
 
 ### Features
 
@@ -202,7 +202,7 @@ This project is licensed under the MIT License. For more information, see the LI
 
 ## Türkçe
 
-Packer-Finder, belirli URL'lerde kullanılan ön uç (frontend) paketleyici teknolojilerini tespit eden bir Python programıdır. Bu program, verilen URL'lerde önceden tanımlanmış paketleyici özelliklerini arar ve bulunan URL'leri belirtilen bir dosyaya kaydeder.
+Scouter, belirli URL'lerde kullanılan ön uç (frontend) paketleyici teknolojilerini tespit eden bir Python programıdır. Bu program, verilen URL'lerde önceden tanımlanmış paketleyici özelliklerini arar ve bulunan URL'leri belirtilen bir dosyaya kaydeder.
 
 ### Özellikler
 
